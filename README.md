@@ -8,4 +8,5 @@
 
 ## 2021
 ### ICMSC Intra- and Cross-modality Semantic Consistency for Unsupervised Domain Adaptation on Hip Joint Bone Segmentation IPMI 2021 [[paper]]()
+### Maximizing Cosine Similarity Between Spatial Features for Unsupervised Domain Adaptation in Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2102.13002)
 ### Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer AAAI 2021 [[paper]](https://arxiv.org/abs/2012.12545)
