@@ -24,6 +24,7 @@
 ### Heuristic Domain Adaptation NIPS 2020 [[paper]](https://papers.nips.cc/paper/2020/hash/555d6702c950ecb729a966504af0a635-Abstract.html) [[code]](https://github.com/cuishuhao/HDA)
 
 ## 2021
+### Adapt Everywhere Unsupervised Adaptation of Point-Clouds and Entropy Minimisation for Multi-modal Cardiac Image Segmentation IEEE TMI 2021 [[paper]](https://arxiv.org/abs/2103.08219) [[code]](https://github.com/sulaimanvesal/PointCloudUDA)
 ### ICMSC Intra- and Cross-modality Semantic Consistency for Unsupervised Domain Adaptation on Hip Joint Bone Segmentation IPMI 2021 [[paper]]()
 ### Maximizing Cosine Similarity Between Spatial Features for Unsupervised Domain Adaptation in Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2102.13002)
 ### Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer AAAI 2021 [[paper]](https://arxiv.org/abs/2012.12545)
